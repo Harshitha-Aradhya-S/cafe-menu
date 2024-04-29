@@ -1,0 +1,63 @@
+body{
+    background-image: url('bg.jpeg');
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+.bg{
+    border: 1px solid black;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    width: 80%;
+}
+
+.est{
+    font-style: italic;
+    text-align: center;
+}
+
+hr{
+    border-color: brown;
+    background-color: brown;
+    border-width: 2px;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  .flavor,
+  .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 24%;
+  }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+  }
